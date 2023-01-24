@@ -42,7 +42,7 @@ section {
     background-color: lightslategray;
 }
 
-@media (min-width:992px) {
+@media (min-width:993px) {
     #div1 {
         width: 30%;
         position: absolute;
@@ -63,7 +63,7 @@ section {
     }
 }
 
-@media (min-width:768px) and (max-width:991px) {
+@media (min-width:768px) and (max-width:992px) {
     #div1 {
         width: 45%;
     }
